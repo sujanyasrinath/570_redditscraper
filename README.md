@@ -1,5 +1,7 @@
 # 570_redditscraper
-### Reddit Review Analyzer for Restaurant Insights
+## Reddit Review Analyzer for Restaurant Insights
+### Youtube Video link: 
+https://www.youtube.com/watch?v=cDBoUWE7628
 #### Overview
 Reddit Review Analyzer is an AI-powered dashboard that helps restaurant owners and marketers extract actionable insights from Reddit discussions. Built using Streamlit, Amazon Bedrock, and NLP tools, the dashboard scrapes relevant Reddit posts about a restaurant, analyzes sentiment, summarizes feedback, and answers custom user questions — all in real time.
 
